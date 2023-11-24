@@ -225,5 +225,5 @@ config.py
 example-lc-inmain.py
 example-sk-inmain.py
 example_free_version.py
-example_(lang_chain,opneAI).py
-example_(semantic_kernel,openAI).py
+example(lang_chain,openAI).py
+example(semantic_kernel,openAI).py
