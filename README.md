@@ -18,8 +18,7 @@ Here is the overview of this tutorial
 Complete folder structure:
 ```
 └── YourUserName
-        └── azure-proj
-            └── gpt-proj1
+        └── yourFolder
                 ├── example.py
                 └── config.py
 ```
