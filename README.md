@@ -28,3 +28,8 @@ Complete folder structure:
 ### 5. Run `example.py`
 
 For more information on each step, see the blog links above.
+
+## Common issues
+
+- [IndexError: list index out of range](https://github.com/skytin1004/teach-chatgpt-to-answer/issues/1)
+
